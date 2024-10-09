@@ -19,7 +19,6 @@ To compile and run this shell, you'll need a C compiler like `gcc` and a Unix-ba
 
 To compile the shell, run the following command:
 
-```bash
 gcc -o my_shell main.c shell.c -I.
 
 Once compiled you can start the shell by running:
